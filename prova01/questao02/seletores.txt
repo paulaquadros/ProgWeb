@@ -1,0 +1,7 @@
+É possível utilizar o seletor 
+
+span{
+
+}
+
+para selecionar somente o elemento span e fazer alterações nele.

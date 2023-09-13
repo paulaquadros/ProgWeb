@@ -1,0 +1,3 @@
+A diferença entre == e === do javascript é que == compara os valores e === compara os valores
+e também compara os tipos.
+Se A === B então A deve ser igual a B e seus tipos devem ser os mesmos.
