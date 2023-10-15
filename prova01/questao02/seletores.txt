@@ -1,3 +1,6 @@
+Um seletor identificado corretamente.
+Nota: 0.7
+
 É possível utilizar o seletor 
 
 span{
